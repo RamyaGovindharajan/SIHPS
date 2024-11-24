@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:24-11-2024
+## Register Number:24900182
+## Name:J.HEMACHANDIRAN
 ## Problem Title
 Implementation of the Alumni Association platform for the University/Institute.
 ## Problem Description
@@ -10,16 +10,41 @@ Background: Alumni associations play a pivotal role in fostering lifelong connec
 Government of Gujarat
 
 ## Idea
+User-Friendly Alumni Portal Description: The webpage should feature a dedicated, easy-to-navigate alumni portal where alumni can register, update their profiles, and access resources. Key Features: Simple and intuitive design for easy navigation. Registration and login system for alumni to create or access their profiles. Profile management tools to allow alumni to update contact info, career progress, and other personal details. Option to control privacy settings for sharing information.
+Alumni News, Stories, and Achievements Description: Showcase news, achievements, and personal stories of alumni on the homepage or through a dedicated section. This will engage the alumni community and keep them connected to the institution. Key Features: Sections for alumni news, such as career achievements, new ventures, or awards. Regularly updated articles or blog posts about alumni success stories. Alumni features, such as "Alumni of the Month," highlighting significant milestones or contributions.
+Event Calendar and RSVP System Description: Provide a calendar of upcoming events such as reunions, webinars, networking opportunities, or virtual meetups. Include an easy RSVP system to encourage participation. Key Features: Interactive calendar for upcoming alumni events and activities. Event descriptions, dates, times, and venues. Online registration or RSVP for events. Virtual event integration for global participation.
+Fundraising and Donation Integration Description: Offer an easy-to-use online platform for alumni to donate to the institution. The webpage can include details on current projects or initiatives that alumni can contribute to. Key Features: Donation button with options for one-time or recurring contributions. Clear explanation of how donations will be used (e.g., scholarships, campus development). Recognition system for donors (e.g., alumni donor wall or acknowledgment in newsletters).
+Alumni Directory and Networking Tools Description: Build an alumni directory to facilitate networking opportunities. This section can help alumni connect with fellow graduates based on industry, location, or profession. Key Features: Searchable alumni directory with filters (e.g., name, year of graduation, profession). Contact options (email, LinkedIn integration). Virtual networking tools such as alumni discussion forums, chatrooms, or interest groups. These features will create a comprehensive, interactive, and engaging Alumni Association webpage, fostering community building, communication, and continued support for the institution's mission.
 
 
 ## Proposed Solution / Architecture Diagram
+![Screenshot 2024-11-24 151644](https://github.com/user-attachments/assets/041e70e8-dcd3-4cf2-ac0b-37d9dd0d3da1)
+
 
 
 ## Use Cases
+![Screenshot 2024-11-24 151102](https://github.com/user-attachments/assets/a8cd93ea-24a8-4874-b58d-0959962042b6)
+
 
 
 ## Technology Stack
+React.js
+
+Node.js
+
+PostgreSQL
+
+Google maps
+
+Firebox Authenticator
+
+Git , Postman or Insomnia
 
 
 ## Dependencies
+Mapping service- 10 days
+
+Data collection- 10 days
+
+budget- rs.50,000
 
