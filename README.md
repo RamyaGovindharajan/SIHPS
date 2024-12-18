@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:24-11-2024
-## Register Number:24900182
-## Name:J.HEMACHANDIRAN
+# Date:18/12/2024
+## Register Number:24003270
+## Name:RAMYA G
 ## Problem Title
 Implementation of the Alumni Association platform for the University/Institute.
 ## Problem Description
